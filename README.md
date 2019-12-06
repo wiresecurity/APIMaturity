@@ -1,2 +1,2 @@
 # APIMaturity
-Framework for API Maturity Assessment
+(documentation to come)
